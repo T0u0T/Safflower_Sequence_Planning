@@ -1,0 +1,7 @@
+# Third-party dependencies for DS-CA-ACO-2OPT simulation code.
+# Recommended interpreter: Python 3.13 (the manuscript's simulation version).
+# Compatibility ranges; NOT a lockfile of the original paper environment.
+numpy>=2.1.0,<3.0
+pandas>=2.2.3,<3.0
+matplotlib>=3.9.2,<4.0
+scipy>=1.14.1,<2.0
